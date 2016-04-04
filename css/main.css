@@ -35,9 +35,26 @@ p{
 	margin-left: 35%;
 }
 .parrafo-iconos{
-	padding: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
 	color: #BFBFBF;
+	font-size: 13px;
+}
+h3{
+	text-align: center;
+	color: white;
 }
 h4{
 	text-align: center;
+}
+.fondo-1{
+	background-image: url("img/metodo.jpg");
+}
+.fondo-2{
+	background-image: url("img/fondo.jpg");
+}
+.parrafo-metodologia{
+	color: #BFBFBF;
+	font-size: 13px;
 }
